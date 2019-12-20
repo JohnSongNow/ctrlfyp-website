@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ctrlfyp-website/static/css/main.c92488c9.chunk.css",
+    "main.js": "/ctrlfyp-website/static/js/main.7cc3ebec.chunk.js",
+    "main.js.map": "/ctrlfyp-website/static/js/main.7cc3ebec.chunk.js.map",
+    "runtime-main.js": "/ctrlfyp-website/static/js/runtime-main.58b4d51c.js",
+    "runtime-main.js.map": "/ctrlfyp-website/static/js/runtime-main.58b4d51c.js.map",
+    "static/js/2.2ffdf9ff.chunk.js": "/ctrlfyp-website/static/js/2.2ffdf9ff.chunk.js",
+    "static/js/2.2ffdf9ff.chunk.js.map": "/ctrlfyp-website/static/js/2.2ffdf9ff.chunk.js.map",
+    "index.html": "/ctrlfyp-website/index.html",
+    "precache-manifest.52a2b7c25c51518a79bae9665e3958f2.js": "/ctrlfyp-website/precache-manifest.52a2b7c25c51518a79bae9665e3958f2.js",
+    "service-worker.js": "/ctrlfyp-website/service-worker.js",
+    "static/css/main.c92488c9.chunk.css.map": "/ctrlfyp-website/static/css/main.c92488c9.chunk.css.map",
+    "static/js/2.2ffdf9ff.chunk.js.LICENSE": "/ctrlfyp-website/static/js/2.2ffdf9ff.chunk.js.LICENSE",
+    "static/media/404-picture.jpg": "/ctrlfyp-website/static/media/404-picture.23cf82ba.jpg",
+    "static/media/careers-page.scss": "/ctrlfyp-website/static/media/Lato-Regular.2d36b1a9.ttf",
+    "static/media/header.scss": "/ctrlfyp-website/static/media/ctrlfyp-logo.c67b468d.png",
+    "static/media/esrb-rp-logo.jpg": "/ctrlfyp-website/static/media/esrb-rp-logo.970f2bb7.jpg",
+    "static/media/press-page.scss": "/ctrlfyp-website/static/media/header.015d2a31.png",
+    "static/media/job-description.scss": "/ctrlfyp-website/static/media/test-image-001.a46fb21b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58b4d51c.js",
+    "static/js/2.2ffdf9ff.chunk.js",
+    "static/css/main.c92488c9.chunk.css",
+    "static/js/main.7cc3ebec.chunk.js"
+  ]
+}
