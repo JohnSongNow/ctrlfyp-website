@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ctrlfyp-website/precache-manifest.f07817fdb3c948c61ad2ae150dd0937d.js"
+  "/ctrlfyp-website/precache-manifest.fe0a9f8d468488818690e076c51e9187.js"
 );
 
 self.addEventListener('message', (event) => {
